@@ -23,9 +23,7 @@ Note: Switch modding services are charged **per switch**
     * Lubrication (Krytox 205g0 on housings and wires)
 
 * Case mods
-    * Foam
-    * Silicone pours coming soon!
-    * Other mods available on request, depending on the case provided
+    * These mods vary on a case-by-case basis (pun intended) and will be quoted according to the materials required
 
 Feel free to [get in touch](mailto:contact@cujo26.xyz) and I'll be happy to provide you with a quote.
 **All mods and builds are performed _on stream_ unless requested otherwise**
