@@ -1,0 +1,60 @@
+html {
+    background-color: #29282b;
+    display: "flex";
+    color: #fff;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-size: 1em;
+    display: flex;
+    align-items: center;
+}
+
+body {
+    margin: auto;
+    line-height: 1.5em;
+    width: 50%;
+}
+
+.navigation {
+    line-height: 2em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.sitename {
+    font-size: 2em;
+}
+
+ul {
+    list-style-type: "";
+    display: flex;
+    flex-direction: row;
+}
+
+.navigation li {
+    margin-left: 8px;
+    font-size: 2em;
+}
+
+a:hover {
+    color: #ff0000;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.leftnav {
+    display: "flex";
+}
+
+footer {
+    font-size: 0.75em;
+}
