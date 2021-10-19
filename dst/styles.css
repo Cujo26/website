@@ -19,21 +19,26 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
+    overflow: hidden;
 }
 
 a {
     text-decoration: none;
-    color: #fff;
+    color: #99a5d3;
 }
 
 .sitename {
     font-size: 2em;
 }
 
-ul {
+.navigation ul {
     list-style-type: "";
     display: flex;
     flex-direction: row;
+}
+
+.navigation .sitename {
+    color: #fff;
 }
 
 .navigation li {
@@ -42,7 +47,7 @@ ul {
 }
 
 a:hover {
-    color: #ff0000;
+    color: #4c7ecf;
 }
 
 nav {
