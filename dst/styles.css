@@ -15,11 +15,10 @@ body {
 }
 
 .navigation {
-    line-height: 2em;
     display: flex;
     flex-direction: row;
     align-items: center;
-    overflow: hidden;
+    flex-wrap: wrap;
 }
 
 a {
@@ -28,13 +27,14 @@ a {
 }
 
 .sitename {
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .navigation ul {
     list-style-type: "";
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .navigation .sitename {
@@ -43,7 +43,7 @@ a {
 
 .navigation li {
     margin-left: 8px;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 a:hover {
